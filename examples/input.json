@@ -1,0 +1,15 @@
+{
+  "mounts": [
+    {
+      "mount": "/tmp",
+      "options": [
+        "rw",
+        "nosuid"
+      ],
+      "required": [
+        "nosuid",
+        "nodev"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "findings": [
+    {
+      "mount": "/tmp",
+      "missing": [
+        "nodev"
+      ]
+    }
+  ],
+  "compliant": false
+}
